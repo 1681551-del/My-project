@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+
+}
+
+img{
+	width: 200px;
+	border: 5px solid #32a1ce;
+}
+
+p{
+	color:navy;
+	font-family: "Times New Roman";
+}
+
+h1{
+	color:red;
+	font-family: "Times New Roman";
+}
+
+h2{
+	color:blue;
+	font-family: "Times New Roman";
+}
+
+
